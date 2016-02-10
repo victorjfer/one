@@ -251,7 +251,7 @@
 	            <div class="service-content">	
 	            	<h3 class="h05">A countdown</h3>
 
-		            <p>Amazing content that people want to see takes time for be created. With <a href="http://demo.themewagon.com/preview/imminent-3d-parallax-responsive-coming-soon-template-with-html5">this</a> template you can set up a countdown in your new domain to inform when your next project will be ready.
+		            <p>Amazing content that people want to see takes time for be created. With <a href="http://demo.themewagon.com/preview/imminent-3d-parallax-responsive-coming-soon-template-with-html5" target="blank">this</a> template you can set up a countdown in your new domain to inform when your next project will be ready.
 	        			</p> 
 
 	        			
@@ -266,7 +266,7 @@
 	            <div class="service-content">
 	            	 <h3 class="h05">A portfolio</h3>
 
-		            <p>A HTML5 porfolio template is perfect for the people that want to start building their brand in internet. Share your dribbble works or your flickr album will look great with <a href="http://demo.themewagon.com/preview/johndoe-free-one-page-portfolio-website-template">this</a> page.
+		            <p>A HTML5 porfolio template is perfect for the people that want to start building their brand in internet. Share your dribbble works or your flickr album will look great with <a href="http://demo.themewagon.com/preview/johndoe-free-one-page-portfolio-website-template" target="blank">this</a> page.
 	        			</p> 
 	        			
 	            </div>	               
@@ -378,7 +378,7 @@
 					</p>
 
 					<div class="action">
-<a href="http://victorfernandez.me/" class="button round large" title="">
+<a href="http://victorfernandez.me/" target="_blank" class="button round large" title="">
    						<i class="icon ion-social-wordpress"></i>  My website
    					</a>
 		        	</div>
@@ -425,9 +425,9 @@
 	            <div class="footer-logo"></div>
 
 	            <p>
-		        	1600 Amphitheatre Parkway<br>
-            	Mountain View, CA 94043 US<br>
-		        	info@lhander.com &nbsp; +123-456-789
+		        	Victor Fernandez<br>
+            	Vigo, Spain<br>
+		        	contact@victorfernandez.me
 		        	</p>
 
 		      </div> <!-- /footer-info -->
