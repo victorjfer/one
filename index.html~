@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>TheOneDollaWebsite</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
+
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="css/base.css">  
+   <link rel="stylesheet" href="css/main.css">
+   <link rel="stylesheet" href="css/vendor.css">     
+
+   <!-- script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- favicons
+	================================================== -->
+	<link rel="icon" type="image/png" href="favicon.png">
+
+</head>
+
+<body id="top">
+
+	<!-- header 
+   ================================================== -->
+   <header>
+
+   	<div class="row">
+
+   		<div class="logo">
+	         <a href="index.html">Lhander</a>
+	      </div>
+
+	   	<nav id="main-nav-wrap">
+				<ul class="main-navigation">
+					<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
+					<li><a class="smoothscroll"  href="#process" title="">Process</a></li>
+					<li><a class="smoothscroll"  href="#features" title="">Ideas</a></li>
+					<li><a class="smoothscroll"  href="#pricing" title="">FAQ</a></li>
+					<li><a class="smoothscroll"  href="#faq" title="">Author</a></li>					
+					<li class="highlight with-sep"><a href="http://victorfernandez.me/" title="">Blog</a></li>					
+				</ul>
+			</nav>
+
+			<a class="menu-toggle" href="#"><span>Menu</span></a>
+   		
+   	</div>   	
+   	
+   </header> <!-- /header -->
+
+	<!-- intro section
+   ================================================== -->
+   <section id="intro">
+
+   	<div class="shadow-overlay"></div>
+
+   	<div class="intro-content">
+   		<div class="row">
+
+   			<div class="col-twelve">
+
+	   			<div class='video-link'>
+	   				<a href="#video-popup"><img src="images/play-button.png" alt=""></a>
+	   			</div>
+
+	   			<h5>Welcome to The one dollar website.</h5>
+	   			<h1>Explore the limits of the costs reduction in tech.</h1>
+
+	   			<a class="button stroke smoothscroll" href="#process" title="">Learn More</a>
+
+	   		</div>  
+   			
+   		</div>   		 		
+   	</div> 
+
+   	<!-- Modal Popup
+	   ========================================================= -->
+
+      <div id="video-popup" class="popup-modal mfp-hide">
+
+		   <div class="fluid-video-wrapper">
+            <iframe src="http://player.vimeo.com/video/14592941?title=0&amp;byline=0&amp;portrait=0&amp;color=faec09" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+         </div>		     
+
+         <a class="close-popup">Close</a>         
+
+	   </div> <!-- /video-popup -->  	 	
+
+   </section> <!-- /intro -->
+
+
+   <!-- Process Section
+   ================================================== -->
+   <section id="process">  
+
+   	<div class="row section-intro">
+   		<div class="col-twelve with-bottom-line">
+
+   			<h5>Process</h5>
+   			<h1>How it works?</h1>
+
+   			<p class="lead">The hosting costs are dropping. Therefore if you just need an neat static website, you just need take advantage of the technology to create amazing solutions.</p>
+
+   		</div>   		
+   	</div>
+
+   	<div class="row process-content">
+
+   		<div class="left-side">
+
+   			<div class="item" data-item="1">
+
+   				<h5>Invest a dollar</h5>
+
+   				<p>Take advantage of the fierce competence in the sector to find the perfect domain you need for a price as low as 1 dollar. The comparator <a href="https://www.domcomp.com/">domcomp</a> will help you.</p>
+   					
+   			</div>
+
+   			<div class="item" data-item="2">
+
+	   			<h5>Choose a theme</h5>
+
+	   			<p>Html5 technology allows to create impressive websites of a few megabytes. Simply choose the template that suits your needs and get ready to impress the world.</p>
+   					
+   			</div>
+   				
+   		</div> <!-- /left-side -->
+   		
+   		<div class="right-side">
+   				
+   			<div class="item" data-item="3">
+
+   				<h5>Adapt it</h5>
+
+   				<p>Open the main website file (index.html) with a text editor and replace the texts for some of your own. Later on replace the photos in respective folder if you need it.</p>
+   					
+   			</div>
+
+   			<div class="item" data-item="4">
+
+   				<h5>Publish it</h5>
+
+   				<p>Use the basic free hosting that your domain provider usually gives to you. In case you have problems make use of your dropbox, github or google drive account.</p>
+   					
+   			</div>
+
+   		</div> <!-- /right-side -->  
+
+   		<div class="image-part"></div>  			
+
+   	</div> <!-- /process-content --> 
+
+   </section> <!-- /process-->    
+
+
+   <!-- features Section
+   ================================================== -->
+	<section id="features">
+
+		<div class="row section-intro">
+   		<div class="col-twelve with-bottom-line">
+
+   			<h5>Ideas</h5>
+   			<h1>Great ideas you'll love.</h1>
+
+   			<p class="lead">There are many sites where you can get html5 templates for free. <a href="http://www.theme.cards/">Theme-cards</a> collects some of the best and you can find more by the term of Bootstrap in the internet.</p>
+
+   		</div>   		
+   	</div>
+
+   	<div class="row features-content">
+
+   		<div class="features-list block-1-3 block-s-1-2 block-tab-full group">
+
+	      	<div class="bgrid feature">	
+
+	      		<span class="icon"><i class="icon-window"></i></span>            
+
+	            <div class="service-content">	
+
+	            	 <h3 class="h05">An Agency</h3>
+
+		            <p>Many agencies try to get known by creating free examples. This has created a great number of awesome templates that you can download for your company like <a href="http://startbootstrap.com/template-overviews/agency/">this</a> and this <a href="http://demo.themewagon.com/preview/avada-pro-agency-free-responsive-html5-template">this</a> other one.
+	         		</p>
+	         		
+	         	</div> 	         	 
+
+				</div> <!-- /bgrid -->
+
+				<div class="bgrid feature">	
+
+					<span class="icon"><i class="icon-mobile"></i></span>                          
+
+	            <div class="service-content">	
+	            	<h3 class="h05">An App</h3>  
+
+		            <p>Develop an app is quite expensive for a little team. This two themes will help you to hold the costs. The <a href="http://elkindnet.github.io/codedesign-basic-app/">first</a> is really flexible and the <a href="http://www.bootstrapzero.com/bootstrap-template/bootstrap-3-single-page-template-css-author">second</a> was used in one of my projects, so personally I love it.
+	         		</p>
+
+	         		
+	            </div>	                          
+
+			   </div> <!-- /bgrid -->
+
+			   <div class="bgrid feature">
+
+			   	<span class="icon"><i class="icon-file"></i></span>		            
+
+	            <div class="service-content">
+	            	<h3 class="h05">Share your CV</h3>
+
+		            <p>If you are a student you probably are trying to hold every expense to save money for college and trips. Thanks to my <a href="http://blacktie.co/2013/10/kelvin-resume-theme/">first</a> and <a href="http://www.styleshout.com/demo/?theme=ceevee">second</a> recommendation, that will no longer be a problem.
+	        			</p> 
+
+	        			
+	            </div> 	            	               
+
+			   </div> <!-- /bgrid -->
+
+				<div class="bgrid feature">
+
+					<span class="icon"><i class="icon-fork-knife"></i></span>	              
+
+	            <div class="service-content">
+	            	<h3 class="h05">A Restaurant</h3>
+
+		            <p>Focus on making a great food and create the right environment for your restaurant. <a href="http://demo.themewagon.com/preview/meatking-restaurant-website-design-template">This</a> and this <a href="http://www.bootstrapzero.com/bootstrap-template/zentro-bootstrap-theme">other</a> other template will help you to shine between the competence.
+	         		</p> 
+
+	         		
+	            </div>                
+
+				</div> <!-- /bgrid -->
+
+			   <div class="bgrid feature">
+
+			   	<span class="icon"><i class="icon-clock"></i></span>	            
+
+	            <div class="service-content">	
+	            	<h3 class="h05">A countdown</h3>
+
+		            <p>Amazing content that people want to see takes time for be created. With <a href="http://demo.themewagon.com/preview/imminent-3d-parallax-responsive-coming-soon-template-with-html5">this</a> template you can set up a countdown in your new domain to inform when your next project will be ready.
+	        			</p> 
+
+	        			
+	            </div>	               
+
+			   </div> <!-- /bgrid -->
+
+			   <div class="bgrid feature">
+
+			   	<span class="icon"><i class="icon-image"></i></span>	   	           
+
+	            <div class="service-content">
+	            	 <h3 class="h05">A portfolio</h3>
+
+		            <p>A HTML5 porfolio template is perfect for the people that want to start building their brand in internet. Share your dribbble works or your flickr album will look great with <a href="http://demo.themewagon.com/preview/johndoe-free-one-page-portfolio-website-template">this</a> page.
+	        			</p> 
+	        			
+	            </div>	               
+
+			   </div> <!-- /bgrid -->
+
+	      </div> <!-- features-list -->
+   		
+   	</div> <!-- features-content -->
+		
+	</section> <!-- /features -->
+	
+
+	<!-- pricing
+   ================================================== -->
+
+   <section id="pricing">
+
+
+   	<div class="row section-intro">
+   		<div class="col-twelve with-bottom-line">
+
+   			<h5>Faq</h5>
+   			<h1>Questions and Answers.</h1>
+
+   			<p class="lead">If you invest more time than the desired, then your new website will not be so cheap. Take a look to the FAQ to understand the project.</p>
+
+   		</div>   		
+   	</div>
+
+   	<div class="row faq-content">
+
+   		<div class="q-and-a block-1-2 block-tab-full group">
+
+   			<div class="bgrid">
+
+   				<h3>1. One dollar is really cheap. Is it really a good idea?</h3>
+
+   				<p>Is viable and a great concept, but please be aware that if you are not good in technology, you may get confused easily. Your time is valuable.</p>
+
+   			</div>
+
+   			<div class="bgrid">
+
+   				<h3>2. Will all domain providers give me a basic hosting?</h3>
+
+   				<p>No, godaddy or namesilo for example will not give it to you. Some of the domain providers that I know that do it are: 1&1, domain.com and ovh.</p>
+
+   			</div>
+
+   			<div class="bgrid">
+
+   				<h3>3. Are there other free hosting providers?</h3>
+
+   				<p>Plenty, and for a website of 2-6 megabytes is hard that you exceed any limits. In addition you can host secondary files like photos, or your whole website in services like Dropbox, Github or Google Drive.</p>
+
+   			</div>
+
+   			<div class="bgrid">
+
+   				<h3>4. Can you tell me more about that?</h3>
+
+   				<p>Yes, here you have a manual of how to host your website in Dropbox and Github. Dropbox is very easy to set up, but is not so good for SEO. Github on the other side is really fast and good for SEO, but is hard to configure.</p>
+
+   			</div>
+
+   			<div class="bgrid">
+
+   				<h3>5. Would be possible to pay one dollar every year?</h3>
+
+   				<p>No, just the first year if you choose the right offer. Then you will have to pay the normal price each year, around 15 dollars per year.</p>
+
+   			</div>
+
+   			<div class="bgrid">
+
+   				<h3>6. What if I want to transform my beautiful website into a blog?</h3>
+
+   				<p>One good idea would be to use the wordpress Divi theme to replicate the design of your website. Is fast, simple and without coding.</p>
+
+   			</div>
+
+   		</div> <!-- /q-and-a --> 
+   		
+   	</div> <!-- /faq-content --> 
+
+
+
+
+
+
+
+   </section> <!-- /pricing --> 
+
+
+ 
+
+
+
+ <!-- cta
+   ================================================== -->
+   <section id="faq">
+   	   	<div class="row section-ads">
+		   <div class="col-twelve">	
+		     		<h2 class="h01"><a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">About me.</a></h2>
+			      <p class="lead">
+			     My name is Victor, I am a 4-year MBA looking for my first serious job. If you like what you see please check out my other projects. 
+					<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->					
+					</p>
+
+					<div class="action">
+<a href="http://victorfernandez.me/" class="button round large" title="">
+   						<i class="icon ion-social-wordpress"></i>  My website
+   					</a>
+		        	</div>
+
+
+
+
+
+			</div>
+
+		</div> <!-- /section-ads --> 
+
+ 	   	<div class="row section-ads">
+		   <div class="col-twelve">	
+		     		
+
+
+
+
+
+			</div>
+
+		</div> <!-- /section-ads --> 
+
+   </section> <!-- /cta -->
+
+
+
+
+
+
+
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+   	<div class="footer-main">
+
+   		<div class="row">  
+
+	      	<div class="col-four tab-full mob-full footer-info">            
+
+	            <div class="footer-logo"></div>
+
+	            <p>
+		        	1600 Amphitheatre Parkway<br>
+            	Mountain View, CA 94043 US<br>
+		        	info@lhander.com &nbsp; +123-456-789
+		        	</p>
+
+		      </div> <!-- /footer-info -->
+
+	      	<div class="col-two tab-1-3 mob-1-2 site-links">
+
+	      		<h4>Site Links</h4>
+
+	      		<ul>
+	      			<li><a href="#">Home</a></li>
+						<li><a href="#process">Process</a></li>
+						<li><a href="#features">Ideas</a></li>
+						<li><a href="#pricing">FAQ</a></li>
+						<li><a href="#faq">Author</a></li>
+					</ul>
+
+	      	</div> <!-- /site-links -->  
+
+	      	<div class="col-two tab-1-3 mob-1-2 social-links">
+
+	      		<h4>Social</h4>
+
+	      		<ul>
+	      			<li><a href="https://www.linkedin.com/in/victorjfer">Linkedin</a></li>
+						<li><a href="https://www.facebook.com/victorjfer">Facebook</a></li>
+						<li><a href="https://twitter.com/victorjfer">Twitter</a></li>
+						<li><a href="https://es.pinterest.com/victorjfer/">Pinterest</a></li>
+						<li><a href="skype:victorjfer">Skype</a></li>
+					</ul>
+	      	           	
+	      	</div> <!-- /social --> 
+
+	      	<div class="col-four tab-1-3 mob-full footer-subscribe">
+
+	      		<h4>Subscribe</h4>
+
+	      		<p>Keep yourself updated. Subscribe to my newsletter.</p>
+
+	      		<div class="subscribe-form">
+	      	
+	      			<form id="mc-form" class="group" novalidate="true">
+
+							<input type="email" value="" name="dEmail" class="email" id="mc-email" placeholder="type email &amp; hit enter" required=""> 
+	   		
+			   			<input type="submit" name="subscribe" >
+		   	
+		   				<label for="mc-email" class="subscribe-message"></label>
+			
+						</form>
+
+	      		</div>	      		
+	      	           	
+	      	</div> <!-- /subscribe -->         
+
+	      </div> <!-- /row -->
+
+   	</div> <!-- /footer-main -->
+
+
+      <div class="footer-bottom">
+
+      	<div class="row">
+
+      		<div class="col-twelve">
+	      		<div class="copyright">
+		         	<span>© Copyright Lhander 2016.</span> 
+		         	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
+		         </div>
+
+		         <div id="go-top" style="display: block;">
+		            <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon ion-android-arrow-up"></i></a>
+		         </div>         
+	      	</div>
+
+      	</div> <!-- /footer-bottom -->     	
+
+      </div>
+
+   </footer>  
+
+   <div id="preloader"> 
+    	<div id="loader"></div>
+   </div> 
+
+   <!-- Java Script
+   ================================================== --> 
+   <script src="js/jquery-1.11.3.min.js"></script>
+   <script src="js/jquery-migrate-1.2.1.min.js"></script>
+   <script src="js/plugins.js"></script>
+   <script src="js/main.js"></script>
+
+</body>
+
+</html>
