@@ -1996,7 +1996,7 @@ a.menu-toggle {
 #faq {
 	background: #FFFFFF;
 	padding-top: 1rem;
-	padding-bottom: 2rem;
+	padding-bottom: 1.4rem;
 }
 .faq-content {
 	margin-top: 2.4rem;
